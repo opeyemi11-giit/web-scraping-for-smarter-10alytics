@@ -1,0 +1,146 @@
+[
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5154 Clubmaster",
+        "current_price": "$155.40",
+        "former_price": "$222"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Airdrop",
+        "current_price": "$158.90",
+        "former_price": "$227"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7047",
+        "current_price": "$123.20",
+        "former_price": "$176"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3547V Oval",
+        "current_price": "$147",
+        "former_price": "$210"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Socket 5.5",
+        "current_price": "$158.90",
+        "former_price": "$227"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5387",
+        "current_price": "$123.20",
+        "former_price": "$176"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Overhead",
+        "current_price": "$120.40",
+        "former_price": "$172"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Neoastra",
+        "current_price": "$145.60",
+        "former_price": "$208"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Thinboard",
+        "current_price": "$120.40",
+        "former_price": "$172"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Metal Plate",
+        "current_price": "$242.20",
+        "former_price": "$346"
+    },
+    {
+        "brand": "Gucci",
+        "name": "GG0011O",
+        "current_price": "$391",
+        "former_price": "$460"
+    },
+    {
+        "brand": "Versace",
+        "name": "VE1274",
+        "current_price": "$221.20",
+        "former_price": "$316"
+    },
+    {
+        "brand": "Persol",
+        "name": "PO3275V",
+        "current_price": "$243.60",
+        "former_price": "$348"
+    },
+    {
+        "brand": "Kate Spade",
+        "name": "Lucyann",
+        "current_price": "$161",
+        "former_price": "$230"
+    },
+    {
+        "brand": "XXL",
+        "name": "Egret",
+        "current_price": "$107.44",
+        "former_price": "$214.88"
+    },
+    {
+        "brand": "Versace",
+        "name": "VE1288",
+        "current_price": "$149",
+        "former_price": "$298"
+    },
+    {
+        "brand": "Dolce & Gabbana",
+        "name": "DG1347",
+        "current_price": "$158",
+        "former_price": "$316"
+    },
+    {
+        "brand": "Burberry",
+        "name": "BE1392",
+        "current_price": "$294.70",
+        "former_price": "$421"
+    },
+    {
+        "brand": "FramesDirect Collection",
+        "name": "V63027",
+        "current_price": "$73",
+        "former_price": ""
+    },
+    {
+        "brand": "Persol",
+        "name": "PO3343V",
+        "current_price": "$254.10",
+        "former_price": "$363"
+    },
+    {
+        "brand": "RALPH by Ralph Lauren",
+        "name": "RA7158U",
+        "current_price": "$98.70",
+        "former_price": "$141"
+    },
+    {
+        "brand": "Tiffany & Co.",
+        "name": "TF2292F",
+        "current_price": "$278.60",
+        "former_price": "$398"
+    },
+    {
+        "brand": "Polo",
+        "name": "PH2083",
+        "current_price": "$140.70",
+        "former_price": "$201"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5397 - Elliot Optics",
+        "current_price": "$147",
+        "former_price": "$210"
+    }
+]
